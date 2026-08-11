@@ -148,7 +148,7 @@ Python 3.8+
 ## Install Dependencies
 
 ```bash
-pip install selenium webdriver-manager
+pip install selenium webdriver-manager time random
 ```
 
 ### Note
